@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DiceRollEks</string>
+    <string name="Roll">Zar At</string>
+    <string name="Score">Skor</string>
+</resources>
